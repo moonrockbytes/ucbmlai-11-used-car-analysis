@@ -2,6 +2,8 @@
 
 An end-to-end regression analysis of 426K used car listings to identify what factors drive vehicle prices and give a used car dealership actionable inventory and pricing guidance.
 
+**Notebook:** [used_car_price_analysis.ipynb](used_car_price_analysis.ipynb)
+
 ---
 
 ## Key Findings

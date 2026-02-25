@@ -80,4 +80,12 @@ Market conditions shift over time. As fuel prices, interest rates, and consumer 
 
 ---
 
+## What's Next
+
+The pricing model built for this analysis can be taken further in one practical direction: a **simple pricing tool** that your staff can use day-to-day without any technical knowledge. By entering a vehicle's year, mileage, title status, condition, drive type, and cylinder count, the tool would return an estimated market price in seconds — useful at the auction, at the counter, or when evaluating a trade-in.
+
+As market conditions change, the model should be refreshed periodically with new listing data. A quarterly update is recommended to keep the estimates aligned with current buyer behaviour.
+
+---
+
 *Analysis conducted using a Ridge Regression model with polynomial features trained on 307,672 listings and validated on a held-out set of 76,918 listings.*
