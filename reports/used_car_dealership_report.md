@@ -37,9 +37,9 @@ Of all the attributes analysed, parts-only and salvage titles are the most damag
 ---
 
 ### 4. Engine Size Influences Price
-Vehicles with larger engines, specifically V6 and V8, consistently command higher prices than equivalent four-cylinder vehicles. This reflects strong buyer demand for trucks, SUVs, and performance-oriented vehicles in the upper price tiers.
+Vehicles with larger engines, specifically six-cylinder and eight-cylinder, consistently command higher prices than equivalent four-cylinder vehicles. This reflects strong buyer demand for trucks, SUVs, and performance-oriented vehicles in the upper price tiers.
 
-**Recommendation:** When acquiring trucks and SUVs, favour V6 and V8 configurations. Four-cylinder options in these segments achieve lower price points and are harder to price competitively.
+**Recommendation:** When acquiring trucks and SUVs, favour six-cylinder and eight-cylinder configurations. Four-cylinder options in these segments achieve lower price points and are harder to price competitively.
 
 ---
 
@@ -53,7 +53,7 @@ Four-wheel drive (4WD) and all-wheel drive (AWD) vehicles are priced above front
 ### 6. Condition Affects the Bottom Line
 Vehicles in good or like-new condition command a clear price premium over those listed in fair condition. Salvage condition vehicles are priced at the bottom of the market. The discount buyers expect in this category is substantial.
 
-**Recommendation:** Invest in reconditioning vehicles to at least a "good" condition standard before listing. The uplift in expected sale price typically justifies the cost.
+**Recommendation:** Prioritise acquiring vehicles that are already in good or like-new condition. The price gap between condition tiers is significant enough that fair-condition vehicles are difficult to price competitively, making condition a key filter at the point of acquisition.
 
 ---
 
@@ -63,7 +63,7 @@ Vehicles in good or like-new condition command a clear price premium over those 
 |---|---|
 | **What to prioritise** | Newer model years, low mileage, clean title, good or like-new condition |
 | **What to avoid** | Salvage, rebuilt, or parts-only titles. The price penalty to buyers exceeds any savings on acquisition cost |
-| **Engine preference** | V6 and V8 for trucks and SUVs. Four-cylinder options in these segments achieve lower price points |
+| **Engine preference** | Six-cylinder and eight-cylinder engines for trucks and SUVs. Four-cylinder options in these segments achieve lower price points |
 | **Drive type** | AWD and 4WD over FWD where options are comparable |
 | **What does not matter** | Paint colour and state of origin have negligible impact on price |
 | **Pricing check** | Compare any listing against the model's predicted price. If your asking price is significantly above the prediction for a vehicle of that age, mileage, and title, consider adjusting to align with market expectations |
